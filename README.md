@@ -1,12 +1,12 @@
----
 # 🚶‍♂️ 行人身份识别网络（基于 YOLO11 分类模型）
 
 ## 1️⃣ 项目简介
 
 本项目基于 YOLO11 分类模型，实现行人身份识别。通过深度学习技术，该系统能够对输入图像进行高效分类，并通过 Streamlit 进行 Web 部署，用户可以上传图像并实时查看识别结果。
 
-![image](https://github.com/xi029/PIRNet/blob/main/img/codeimg.png)
 ---
+
+![image](img/codeimg.png)
 
 ## 2️⃣ 安装与部署
 
